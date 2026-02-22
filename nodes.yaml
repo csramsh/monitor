@@ -1,0 +1,73 @@
+# Kumatastic Node Manifest — CSRA Mesh
+#
+
+nodes:
+  "!69859178":
+    name: "Meshtastical 9178"
+    tags: ["core"]
+  "!4c453771":
+    name: "KO4LDS-MAST"
+    tags: ["infra"]
+  "!433c5b2c":
+    name: "Sullytastic 2 5b2c"
+    tags: ["auto"]
+  "!457d2526":
+    name: "Mesh-Bot 2526"
+    tags: ["auto"]
+  "!33d9723f":
+    name: "rxrb"
+    tags: ["infra"]
+  "!ea163510":
+    name: "Mitastic 2.6.4 3510"
+    tags: ["auto"]
+  "!7dda7113":
+    name: "MiNebraLab"
+    tags: ["auto"]
+  "!3a68c7ac":
+    name: "Mitastic MiPC c7ac"
+    tags: ["auto"]
+  "!55c80220":
+    name: "R2_BLD600"
+    tags: ["auto"]
+  "!498acd37":
+    name: "CSRA Mesh 1 Repeater cd37"
+    tags: ["infra"]
+  "!9c56b555":
+    name: "RKey Mobile"
+    tags: ["mobile"]
+  "!69850fa0":
+    name: "StaBasHT4"
+    tags: ["auto"]
+  "!94d95f31":
+    name: "KM4NSG-Grovetown"
+    tags: ["auto"]
+  "!9d75cf72":
+    name: "PDI Static"
+    tags: ["auto"]
+  "!351e04d8":
+    name: "Meshtastic 04d8"
+    tags: ["auto"]
+  "!4335ef04":
+    name: "KO4NSY_mbb3"
+    tags: ["auto"]
+  "!033780a7":
+    name: "WBD-RPT-01"
+    tags: ["infra"]
+  "!103d5b83":
+    name: "Mitastic XaioGator 5b83"
+    tags: ["auto"]
+  "!68bfd58e":
+    name: "rxr3"
+    tags: ["mobile"]
+  "!da659490":
+    name: "Meshtastic 9490"
+    tags: ["auto"]
+  "!433b3f74":
+    name: "rxr1"
+    tags: ["infra"]
+  "!b6090f7b":
+    name: "Pious 0f7b"
+    tags: ["auto"]
+  "!39c2615c":
+    name: "SST3-MAST-KM4NSG"
+    tags: ["auto"]
