@@ -32,9 +32,6 @@ nodes:
   "!498acd37":
     name: "CSRA Mesh 1 Repeater cd37"
     tags: ["infra"]
-  "!9c56b555":
-    name: "RKey Mobile"
-    tags: ["mobile"]
   "!69850fa0":
     name: "StaBasHT4"
     tags: ["auto"]
@@ -46,9 +43,6 @@ nodes:
     tags: ["auto"]
   "!351e04d8":
     name: "Meshtastic 04d8"
-    tags: ["auto"]
-  "!4335ef04":
-    name: "KO4NSY_mbb3"
     tags: ["auto"]
   "!033780a7":
     name: "WBD-RPT-01"
