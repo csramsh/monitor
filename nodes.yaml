@@ -2,9 +2,6 @@
 #
 
 nodes:
-  "!69859178":
-    name: "Meshtastical 9178"
-    tags: ["core"]
   "!4c453771":
     name: "KO4LDS-MAST"
     tags: ["infra"]
@@ -26,14 +23,8 @@ nodes:
   "!55c80220":
     name: "R2_BLD600"
     tags: ["auto"]
-  "!498acd37":
-    name: "CSRA Mesh 1 Repeater cd37"
-    tags: ["infra"]
   "!69850fa0":
     name: "StaBasHT4"
-    tags: ["auto"]
-  "!94d95f31":
-    name: "KM4NSG-Grovetown"
     tags: ["auto"]
   "!9d75cf72":
     name: "PDI Static"
@@ -61,4 +52,7 @@ nodes:
     tags: ["auto"]
   "!39c2615c":
     name: "SST3-MAST-KM4NSG"
+    tags: ["auto"]
+  "!14066a0c":
+    name: "Welbow Outside (Node4)"
     tags: ["auto"]
