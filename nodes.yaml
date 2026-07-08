@@ -35,9 +35,6 @@ nodes:
   "!6982c090":
     name: "rxr5"
     tags: ["infra"]
-  "!b2a71198":
-    name: "rxru"
-    tags: ["infra"]
   "!b6090f7b":
     name: "Pious 0f7b"
     tags: ["auto"]
