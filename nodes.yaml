@@ -11,17 +11,8 @@ nodes:
   "!33d9723f":
     name: "rxrb"
     tags: ["infra"]
-  "!ea163510":
-    name: "Mitastic 2.6.4 3510"
-    tags: ["auto"]
-  "!7dda7113":
-    name: "MiNebraLab"
-    tags: ["auto"]
   "!3a68c7ac":
     name: "Mitastic MiPC c7ac"
-    tags: ["auto"]
-  "!55c80220":
-    name: "R2_BLD600"
     tags: ["auto"]
   "!69850fa0":
     name: "StaBasHT4"
@@ -49,9 +40,6 @@ nodes:
     tags: ["infra"]
   "!b6090f7b":
     name: "Pious 0f7b"
-    tags: ["auto"]
-  "!39c2615c":
-    name: "SST3-MAST-KM4NSG"
     tags: ["auto"]
   "!14066a0c":
     name: "Welbow Outside (Node4)"
