@@ -41,3 +41,6 @@ nodes:
   "!14066a0c":
     name: "Welbow Outside (Node4)"
     tags: ["auto"]
+  "!f33db18d":
+    name: "GSMC Wrens GA b18d"
+    tags: ["infra"]
