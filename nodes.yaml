@@ -23,15 +23,9 @@ nodes:
   "!033780a7":
     name: "WBD-RPT-01"
     tags: ["infra"]
-  "!68bfd58e":
-    name: "rxr3"
-    tags: ["mobile"]
   "!da659490":
     name: "Meshtastic 9490"
     tags: ["auto"]
-  "!433b3f74":
-    name: "rxr1"
-    tags: ["infra"]
   "!5d3767cc":
     name: "rxr5"
     tags: ["infra"]
